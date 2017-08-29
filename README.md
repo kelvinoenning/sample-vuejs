@@ -1,6 +1,6 @@
 # sample-vuejs
 
-> A Vue.js project
+> Sample project developed in Vuejs
 
 ## Build Setup
 
